@@ -1,1 +1,1 @@
-#This is webpack practice
+# This is webpack practice
